@@ -1,0 +1,18 @@
+.active-link{
+  color: white;
+  background-color: rgb(125, 119, 234);
+  font-weight: 700;
+  padding-inline: 8px;
+  padding-block: 2px;
+  border-radius: 20px;
+
+}
+
+.none{
+  background-color: white;
+  color: rgb(16, 185, 129);
+  font-weight: 700;
+  padding-inline: 8px;
+  padding-block: 2px;
+  border-radius: 20px;
+}
