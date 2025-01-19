@@ -28,6 +28,7 @@ const userSchema = new Schema({ //Schema is used to give the structure of the da
     type: String,  
     required: true, 
     trim: true,
+    minlength: 6,
   },
   date: {
     type: Date,
